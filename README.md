@@ -1,2 +1,55 @@
-# Leetcode_75
-75-day LeetCode consistency challenge focusing on DSA and clean C++ solutions.
+
+---
+
+## Topics Covered
+The challenge covers the following core DSA topics:
+- Arrays & Strings
+- Two Pointers
+- Sliding Window
+- Hashing
+- Stack & Queue
+- Linked List
+- Binary Tree & BST
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Binary Search
+
+---
+
+## Progress Tracker
+
+| Day | Status |
+|----|--------|
+| Day 01 | Completed |
+| Day 02 | In Progress |
+| Day 03 | In Progress |
+| ... | ... |
+
+---
+
+## Coding Principles Followed
+- Prefer optimal solutions with clear logic
+- Analyze time and space complexity for every problem
+- Avoid unnecessary optimizations
+- Maintain readable and maintainable code
+- Focus on learning patterns, not memorization
+
+---
+
+## Learning Philosophy
+Consistency, discipline, and focused practice are more effective than short bursts of intensity.
+
+---
+
+## Notes
+- All solutions are written independently
+- This repository is maintained for learning, revision, and interview preparation
+- Code quality and understanding are prioritized over speed
+
+---
+
+## Author
+**Aakash Kumar**  
+Aspiring Software Engineer  
+Focus Areas: DSA, C++, Problem Solving
