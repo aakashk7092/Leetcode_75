@@ -22,7 +22,7 @@ The challenge covers the following core DSA topics:
 | Day | Status |
 |----|--------|
 | Day 01 | Completed |
-| Day 02 | In Progress |
+| Day 02 | Completed |
 | Day 03 | In Progress |
 | ... | ... |
 
