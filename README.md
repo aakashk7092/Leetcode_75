@@ -24,6 +24,8 @@ The challenge covers the following core DSA topics:
 | Day 01 | Completed |
 | Day 02 | Completed |
 | Day 03 | Completed |
+| Day 4 | Completed |
+| ... | ... |
 | ... | ... |
 
 ---
