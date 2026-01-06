@@ -1,58 +1,64 @@
-# Day 06 – Move Zeroes
+# Day 06 – Reverse Words in a String
 
 **Study Plan:** LeetCode 75  
 **Official Study Plan URL:** https://leetcode.com/studyplan/leetcode-75/  
 **Platform:** LeetCode  
-**Difficulty:** Easy  
-**Topics:** Arrays, Two Pointers  
+**Difficulty:** Medium  
+**Topics:** Strings, Two Pointers  
 **Status:** Completed  
 
 ---
 
 ## Problem Overview
-Given an integer array, move all `0`s to the end of the array while maintaining the relative order of the non-zero elements.  
-The operation must be performed **in-place** without making a copy of the array.
+You are given a string `s` consisting of words separated by spaces.  
+Your task is to **reverse the order of the words** in the string.
+
+The final string must:
+- Not contain leading or trailing spaces  
+- Have exactly one space between words  
+- Keep the characters of each word unchanged  
 
 ---
 
-## Key Observation
-- The relative order of non-zero elements must remain unchanged.
-- Only the positions of zero elements are modified.
-- This is a classic use case for the **two-pointer technique**.
+## Key Observations
+- Extra spaces must be removed before processing.
+- Only the **order of words** changes, not the words themselves.
+- A clean output format is as important as the correct logic.
 
 ---
 
 ## Approach
-- Use one pointer to track the position where the next non-zero element should be placed.
-- Traverse the array with another pointer.
-- Whenever a non-zero element is found, move it to the tracked position and advance the pointer.
-- After processing all elements, the remaining positions automatically contain zeros.
+- First, remove unnecessary spaces from the string.
+- Identify all words in the correct order.
+- Reverse the sequence of words.
+- Join them back using a single space.
 
-This ensures minimal operations and preserves order.
+This ensures both correctness and proper formatting.
 
 ---
 
 ## Algorithm Summary
-1. Initialize an index to mark the position for the next non-zero element.
-2. Traverse the array from left to right.
-3. Place each non-zero element at the tracked position.
-4. Continue until the end of the array is reached.
+1. Trim leading and trailing spaces.
+2. Split the string into words.
+3. Reverse the list of words.
+4. Join the words with one space.
+5. Return the formatted result.
 
 ---
 
 ## Complexity Analysis
 - **Time Complexity:** `O(n)`
-- **Space Complexity:** `O(1)`
+- **Space Complexity:** `O(n)` (for storing words)
 
 ---
 
 ## Key Learnings
-- Practical use of two-pointer technique
-- Maintaining order while performing in-place updates
-- Writing efficient logic without extra memory
+- Handling whitespace correctly in string problems
+- Separating formatting logic from core logic
+- Writing robust and clean string manipulation solutions
 
 ---
 
 ## Reference
-- Study Plan: https://leetcode.com/studyplan/leetcode-75/
+- Study Plan: https://leetcode.com/studyplan/leetcode-75/  
 - Problem Platform: LeetCode
