@@ -30,6 +30,7 @@ The challenge covers the following core DSA topics:
 | Day 07 | Completed |
 | Day 08 | Completed |
 | Day 09 | Completed |
+| Day 10 | Completed |
 | ... | ... |
 | ... | ... |
 
