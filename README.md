@@ -47,6 +47,9 @@ The challenge covers the following core DSA topics:
 | Day 24 | Completed |
 | Day 25 | Completed |
 | Day 26 | Completed |
+| Day 27 | Completed |
+| Day 28 | Completed |
+| Day 29 | Completed |
 | ... | ... |
 | ... | ... |
 
