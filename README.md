@@ -54,6 +54,8 @@ The challenge covers the following core DSA topics:
 | Day 31 | Completed |
 | Day 32 | Completed |
 | Day 33 | Completed |
+| Day 34 | Completed |
+| Day 36 | Completed |
 | ... | ... |
 | ... | ... |
 
