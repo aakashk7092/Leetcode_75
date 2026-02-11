@@ -91,3 +91,45 @@ Best case (balanced BST): `O(log n)`
 Deletion cases:
 
 Case 1:
+5
+/
+3
+
+Delete 3 → simply remove
+
+
+Case 2:
+
+
+5
+/
+3
+
+4
+
+Delete 3 → replace with 4
+
+
+Case 3:
+
+5
+
+
+/
+3 7
+/
+6
+
+Delete 5 → replace with 6
+
+
+---
+
+## Reference
+
+- Study Plan: https://leetcode.com/studyplan/leetcode-75/  
+- Problem Platform: LeetCode
+
+🎯 Day 42 Progress Snapshot
+
+You’ve now covered
