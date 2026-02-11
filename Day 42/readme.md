@@ -130,6 +130,3 @@ Delete 5 → replace with 6
 - Study Plan: https://leetcode.com/studyplan/leetcode-75/  
 - Problem Platform: LeetCode
 
-🎯 Day 42 Progress Snapshot
-
-You’ve now covered
