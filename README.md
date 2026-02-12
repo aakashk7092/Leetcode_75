@@ -60,6 +60,10 @@ The challenge covers the following core DSA topics:
 | Day 37 | Completed |
 | Day 38 | Completed |
 | Day 39 | Completed |
+| Day 40 | Completed |
+| Day 41 | Completed |
+| Day 42 | Completed |
+| Day 43 | Completed |
 | ... | ... |
 | ... | ... |
 
