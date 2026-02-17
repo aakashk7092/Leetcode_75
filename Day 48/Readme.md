@@ -66,49 +66,8 @@ Right → (0, +1)
 
 ---
 
-## Example
+<img width="985" height="346" alt="image" src="https://github.com/user-attachments/assets/a170188f-89eb-496a-b861-4bce1af96737" />
 
-Input:
-
-2 1 1
-1 1 0
-0 1 1
-
-Output:
-4
-Explanation:
-
-All oranges rot in 4 minutes.
-
----
-
-## BFS Visualization
-
-Minute 0:
-2 1 1
-1 1 0
-0 1 1
-
-Minute 1:
-2 2 1
-2 1 0
-0 1 1
-
-Minute 2:
-2 2 2
-2 2 0
-0 1 1
-
-Minute 3:
-2 2 2
-2 2 0
-0 2 1
-
-
-Minute 4:
-2 2 2
-2 2 0
-0 2 2
 
 
 ---
