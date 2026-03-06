@@ -77,6 +77,16 @@ The challenge covers the following core DSA topics:
 | Day 53 | ✅ Completed |
 | Day 54 | ✅ Completed |
 | Day 55 | ✅ Completed |
+| Day 56 | ✅ Completed |
+| Day 57 | ✅ Completed |
+| Day 58 | ✅ Completed |
+| Day 59 | ✅ Completed |
+| Day 60 | ✅ Completed |
+| Day 61 | ✅ Completed |
+| Day 62 | ✅ Completed |
+| Day 63 | ✅ Completed |
+| Day 64 | ✅ Completed |
+| Day 65 | ✅ Completed |
 
 ---
 
