@@ -1,4 +1,4 @@
-# Day 64 – Best Time to Buy and Sell Stock with Transaction Fee
+# Day 65 – Best Time to Buy and Sell Stock with Transaction Fee
 
 **Study Plan:** LeetCode 75  
 **Platform:** LeetCode  
