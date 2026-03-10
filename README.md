@@ -87,6 +87,10 @@ The challenge covers the following core DSA topics:
 | Day 63 | ✅ Completed |
 | Day 64 | ✅ Completed |
 | Day 65 | ✅ Completed |
+| Day 66 | ✅ Completed |
+| Day 67 | ✅ Completed |
+| Day 68 | ✅ Completed |
+| Day 69 | ✅ Completed |
 
 ---
 
